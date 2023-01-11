@@ -1,14 +1,13 @@
 {
   "cart": [
     {
-      "id": 1,
+      "id": 6,
       "name": "The Sandwich",
       "bread": "Gluten Free",
       "ingredients": [
-        "Lettuce",
         "Onions",
         "Cheddar Cheese",
-        "Ham"
+        "Bacon"
       ]
     }
   ],
