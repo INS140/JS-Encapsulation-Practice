@@ -3,11 +3,11 @@
     {
       "id": 6,
       "name": "The Sandwich",
-      "bread": "Gluten Free",
+      "bread": "White",
       "ingredients": [
+        "Bacon",
         "Onions",
-        "Cheddar Cheese",
-        "Bacon"
+        "Cheddar Cheese"
       ]
     }
   ],
